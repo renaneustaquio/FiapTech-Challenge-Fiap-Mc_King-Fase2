@@ -119,7 +119,7 @@ Primeiro, clone o repositório do projeto para sua máquina local e, em seguida,
   
 
 ```bash
-git  clone  https://github.com/mayaramanziFiap/Tech-Challenge-Fiap-Mc-King-Fase2.git
+git  clone  https://github.com/renaneustaquio/FiapTech-Challenge-Fiap-Mc_King-Fase2.git
 ```
 
   
